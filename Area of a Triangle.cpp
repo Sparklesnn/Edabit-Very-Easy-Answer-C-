@@ -1,3 +1,3 @@
-int addition(int a){
-	return a+1;
+int triArea(int base,int heigh){
+	return (base*heigh)/2;
 }
