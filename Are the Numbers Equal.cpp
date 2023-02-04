@@ -1,3 +1,9 @@
-bool isEqual(int num1,int num2){
-	return isEqual(num1,num2);
+#include <iostream>
+bool isSameNum(int a,int b){
+	if(a==b){
+		return true;
+	}
+	else{
+		return false;
+	}
 }
